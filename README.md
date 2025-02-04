@@ -5,7 +5,7 @@ DevOps Engineer with hands-on experience in cloud deployment, CI/CD pipelines, a
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, Java, C++
-- **Cloud & DevOps:** AWS (EC2, ECS Fargate), Terraform, GitHub Actions, Jenkins
+- **Cloud & DevOps:** AWS (EC2, ECS Fargate), GCP, Terraform, GitHub Actions, Jenkins
 - **Web Technologies:** HTML, CSS, JavaScript, React, Node.js, Express.js
 - **Databases:** MySQL, MongoDB
 - **Operating Systems:** Linux (Shell Scripting)
@@ -34,37 +34,28 @@ A comprehensive platform to crawl, analyze, and recommend laptops based on user 
    - AI-powered recommendation system
    - Suggests laptops based on user requirements
 
-### Data Pipeline
-```
-Crawler → Analyzer → Dashboard → Recommender
-(Raw Data) (Clean Data) (Visualization) (Suggestions)
-```
+
 
 ## 🏗️ Previous Projects
-
+- **DevOps Tools Installation Suite:** A comprehensive collection of installation scripts for common DevOps tools on Ubuntu/Debian systems.
+- **Simple Task Manager:** A minimalist Task Manager application built with Flask and MongoDB, containerized using Docker.
 - **Quotes App:** Custom API-based application deployed on AWS EC2
-- **Telemedicine Module:** Healthcare service integration with backend functionality
 - **Online Compiler:** Built using ECS Fargate and optimized with Fargate Spot
-- **Time-Table Generator:** MERN stack application for automated scheduling
-- **Campus Recruitment Platform:** Django-based training platform with code compilation
+
 
 ## 🎓 Education
 
 - **B.E. in Computer Science** - Prof. Ram Meghe Institute of Technology & Research (CGPA: 8.63)
-- **Class XII** - Brijlal Biyani Science College (65.85%)
-- **Class X** - School of Scholars, CBSE (92.8%)
 
 ## 📫 Connect with Me
 
 - Email: gathekanav@gmail.com
-- LinkedIn: [Kanav Gathe](https://linkedin.com/in/yourprofile)
-- GitHub: [Profile](https://github.com/yourprofile)
-- HashNode: [Blog](https://hashnode.com/yourprofile)
+- LinkedIn: [Kanav Gathe](https://linkedin.com/in/gathekanav/)
+- GitHub: [Profile](https://github.com/SlayerK15)
+- HashNode: [Blog](https://hashnode.com/@KanavGathe)
 
 ## 🌱 Recent Certifications
 
 - Docker Training (KodeKloud)
 - Git and GitHub (IBM)
 - Cloud Computing (IBM)
-- Linux Basics & Shell Scripting (KodeKloud)
-- Cybersecurity (Cisco)
